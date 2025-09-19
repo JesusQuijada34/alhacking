@@ -1,4 +1,4 @@
-Author: 4lbH4cker
+Author: JesusQuijada34
 ### Version 4
 
 (![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
